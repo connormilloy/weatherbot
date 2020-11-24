@@ -1,0 +1,17 @@
+{
+  "name": "devbot",
+  "version": "1.0.0",
+  "description": "Discord.js bot for polling weather.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.0",
+    "dotenv": "^8.2.0",
+    "eslint": "^7.14.0",
+    "node-fetch": "^2.6.1"
+  }
+}
